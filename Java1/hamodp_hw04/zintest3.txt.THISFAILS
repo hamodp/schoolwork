@@ -1,0 +1,122 @@
+<book>
+  <title>
+    XML in a Nutshell
+  </title>
+  <bookinfo>
+    <author>
+      <firstname>
+        Elliotte Rusty
+      </firstname>
+      <surname>
+        Harold
+      </surname>
+    </author>
+    <firstname>
+    <author>
+      W. Scott
+    </firstname>
+    <surname>
+      Means
+    </surname>
+    </author>
+  </bookinfo>
+
+  <toc>
+    <tocchap>
+      <tocentry>
+        Introducing XML
+      </tocentry>
+    </tocchap>
+    <tocchap>
+      <tocentry>
+        XML as a Document Format XML
+      </tocentry>
+    </tocchap>
+    <tocchap>
+      <tocentry>
+        XML as a "Better" HTML
+      </tocentry>
+    </tocchap>
+  </toc>
+
+  <chapter>
+    <tocchap>
+      <title>
+        Introducing XML
+      </title>
+    </tocchap>
+    <para>
+    </para>
+  </chapter>
+
+  <chapter>
+    <title>
+      XML as a Document Format XML
+    </title>
+    <para>
+      XML is first and foremost a document format.
+    </para>
+
+    <sect1>
+      <title>
+        SGML's Legacy
+      </title>
+      <para>
+      </para>
+    </sect1>
+
+    <sect1>
+      <title>
+        TEI
+      </title>
+      <para>
+      </para>
+    </sect1>
+
+    <sect1>
+      <title>
+        DocBook
+      </title>
+      <para>
+        yada is an SGML application designed for new documents, not old ones.
+      </para>
+    </sect1>
+
+  </chapter>
+
+  <chapter>
+    <title>
+      XML on the Web
+    </title>
+    <para>
+    </para>
+  </chapter>
+
+  <index>
+    <indexentry>
+      <primaryie>
+        SGML, 8, 89
+      </primaryie>
+    </indexentry>
+    <indexentry>
+      <primaryie>
+        DocBook, 95-98
+      </primaryie>
+    </indexentry>
+    <indexentry>
+      <primaryie>
+        TEI (Text Encoding Initiative), 92-95
+      </primaryie>
+    </indexentry>
+    <indexentry>
+      <primaryie>
+        Text Encoding Initiative
+        <seeie>
+          TEI
+        </seeie>
+      </primaryie>
+    </indexentry>
+    <indexentry>
+    </indexentry>
+  </index>
+</book>

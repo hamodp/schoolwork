@@ -1,0 +1,101 @@
+import java.util.*;
+
+
+public class OneSet implements IOneSet {
+
+  private Scanner inFile;
+  private ArrayList<String> theSet;
+  private HashSet<String> hashtable;
+  
+  public OneSet()
+  {
+	  theSet = new ArrayList<String>();
+	  hashtable = new HashSet<String>();
+  }
+  
+  public OneSet(String fileName)
+  {
+	  theSet = new ArrayList<String>();
+	  hashtable = new HashSet<String>();
+	  inFile = FileUtils.ScannerOpen(fileName);
+	  this.readSet(inFile);
+  }
+  
+  
+	public ArrayList<String> getTheSet() {
+		
+		return theSet;
+	}
+
+	@Override
+	public void addElement(String element)
+	{
+		if(! containsElement(element))
+		{
+			theSet.add(element);
+			hashtable.add(element);
+		}
+		
+	}
+
+	@Override
+	public boolean containsElement(String element) {
+		for(String s: hashtable)
+		{
+			if(s.equals(element))
+			{
+				return true;
+			}
+		}
+		return false;
+	}
+
+	@Override
+	public void readSet(Scanner inFile) 
+	{
+		while(inFile.hasNext())
+		{
+			addElement(inFile.nextLine());
+		}
+	}
+
+	@Override
+	public OneSet intersectWith(OneSet that) {
+		OneSet temp =new OneSet();
+		for(String s: that.getTheSet())
+		{
+			if(containsElement(s))
+			{
+				temp.addElement(s);
+			}
+			else
+			{
+				temp.addElement("NOT present " + s);
+			}
+		}
+		
+		for(String s: this.theSet)
+		{
+			if(containsElement(s))
+			{
+				temp.addElement(s);
+			}
+			else
+			{
+				temp.addElement("NOT present " + s);
+			}
+		}
+		return temp;
+	}
+
+	public String toString()
+	{
+		
+		String output = "";
+		for(String s: theSet)
+		{
+			output+= s + "\n";
+		}
+		return output;
+	}
+}

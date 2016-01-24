@@ -1,0 +1,5 @@
+basifier 2
+anuria   1
+attache  0
+accuses  4
+bullwhip 3

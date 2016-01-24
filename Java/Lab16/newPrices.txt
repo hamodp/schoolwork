@@ -1,0 +1,30 @@
+Album: Rock Steady
+Artist: No Doubt
+Year released: 2002
+Price: $9.49
+
+Album: Revolver
+Artist: The Beatles
+Year released: 1966
+Price: $7.0
+
+Album: Dangerously in Love
+Artist: Beyonce featuring Jean Paul
+Year released: 2003
+Price: $16.65
+
+Album: Blood on the Dance Floor: History in the Making
+Artist: Michael Jackson
+Year released: 1997
+Price: $8.25
+
+Album: Master of Puppets
+Artist: Metallica
+Year released: 1986
+Price: $6.645
+
+Album: Escape
+Artist: Journey
+Year released: 2006
+Price: $6.705
+

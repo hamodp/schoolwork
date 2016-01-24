@@ -1,0 +1,87 @@
+
+import java.io.PrintWriter;
+import java.util.*;
+
+public class ReadTheFile implements IReadTheFile
+{
+
+	private ArrayList<Choice> theList;
+	private String pctData;
+	private PrintWriter outFile = FileUtils.PrintWriterOpen("zout.txt");
+	String inputLine;
+	 
+	public ReadTheFile(Scanner inFile)
+	  {
+	    this.theList = new ArrayList<Choice>();
+	    this.readFile(inFile);
+	  } // public ReadTheFile(Scanner inFile)
+	 
+	 
+	public String getPctData(String inputLine) {
+		if(isHeader(inputLine))
+		{
+			pctData =inputLine.substring(60, 108);
+			return pctData;
+		}
+		else
+		{
+			return pctData;
+		}
+	}
+
+	public boolean isChoice(String inputLine) {
+		if(inputLine.startsWith("5"))
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+
+	public boolean isHeader(String inputLine) {
+		if(inputLine.startsWith("RUN DATE"))
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+
+	public void readFile(Scanner inFile) {
+		
+		Scanner localScanner = null;
+		
+		
+			localScanner = new Scanner(inFile.nextLine());
+			while(localScanner.hasNext())
+			{
+				inputLine = localScanner.nextLine();
+				System.out.println(inputLine);
+				if(isHeader(inputLine))
+				{
+					getPctData(inputLine);
+						
+				}
+				else if(isChoice(inputLine))
+				{
+					System.out.println(pctData);
+					Choice vote = new Choice(this.pctData, inputLine);
+					theList.add(vote);
+				}
+			}	
+			
+		
+	
+	}
+	
+	public String toString()
+	{
+		System.out.print(theList.get(0).toString());
+		return theList.toString();
+	}
+	
+}

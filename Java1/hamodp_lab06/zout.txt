@@ -1,0 +1,27 @@
+Set 1
+red orange blue green 
+Set 2
+orange brown blue 
+Sets 1 and 2 are not equal
+Set 3
+blue orange brown 
+Sets 2 and 3 are equal
+Set 3
+blue orange brown 
+Element 'red' not in set 3
+Set 3
+blue orange brown 
+Set 3
+blue orange brown 
+Element 'brown' removed from set 3
+Set 3
+blue orange 
+Set 3
+blue orange 
+Set 3
+blue orange red green 
+Set 1
+red orange blue green 
+Set 3
+blue orange red green 
+Sets 1 and 3 are equal

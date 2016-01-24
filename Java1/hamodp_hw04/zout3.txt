@@ -1,0 +1,35 @@
+DTD is
+ author              
+ book                
+ bookinfo            
+ chapter             
+ firstname           
+ index               
+ indexentry          
+ para                
+ primaryie           
+ sect1               
+ seeie               
+ surname             
+ title               
+ toc                 
+ tocchap             
+ tocentry            
+
+open tag:  '<book>' 'book'
+open tag:  '<title>' 'title'
+data:      'XML in a Nutshell'
+close tag: '</title>' 'title'
+open tag:  '<bookinfo>' 'bookinfo'
+open tag:  '<author>' 'author'
+open tag:  '<firstname>' 'firstname'
+data:      'Elliotte Rusty'
+close tag: '</firstname>' 'firstname'
+open tag:  '<surname>' 'surname'
+data:      'Harold'
+close tag: '</surname>' 'surname'
+close tag: '</author>' 'author'
+open tag:  '<firstname>' 'firstname'
+open tag:  '<author>' 'author'
+data:      'W. Scott'
+close tag: '</firstname>' 'firstname'

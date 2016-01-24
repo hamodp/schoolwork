@@ -1,0 +1,51 @@
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.TreeMap;
+import java.util.Map.Entry;
+
+
+public class Choices
+{
+	private static TreeMap<Choice, Integer> mapIDToChoice;
+	private static TreeMap<Integer, Choice> mapChoiceToID;
+	private static TreeMap<String, Choice> contestToChoice;
+	static private int id = 0;
+	
+public Choices()
+{
+	mapIDToChoice = new TreeMap<Choice, Integer>(new CompContest());
+	mapChoiceToID = new TreeMap<Integer, Choice>();
+	
+}
+	
+  
+  static public void AddChoice(Choice choice)
+  {
+      id++;
+      if(mapIDToChoice.get(choice) == null)
+      {
+	  mapIDToChoice.put(choice, id);
+	  mapChoiceToID.put(id, choice);
+	  System.out.println(choice);
+      }
+  }
+
+  static public Choice GetChoice(Integer id)
+  {
+	  return mapChoiceToID.get(id);
+  }
+
+  static public Integer GetID(Choice choice)
+  {
+	return mapIDToChoice.get(choice);  
+  }
+
+  public String toString()
+  {
+	  String output = "";
+	  return output;
+  }
+
+
+  
+}

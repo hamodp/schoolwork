@@ -1,0 +1,27 @@
+One: screech budges eyeholes sonars spinels upleapt tinamou vacs kayaker granita mumus bibless thorny cerebral one serge cannulae forkfuls apagoges papyrine quaffs unserved menage swopped 
+Two: screech augural eyeholes sonars reexpels worst shoving upleapt one cannulae lyrics apagoges quaffs unserved instals 
+present screech
+NOT present budges
+present eyeholes
+present sonars
+NOT present spinels
+present upleapt
+NOT present tinamou
+NOT present vacs
+NOT present kayaker
+NOT present granita
+NOT present mumus
+NOT present bibless
+NOT present thorny
+NOT present cerebral
+present one
+NOT present serge
+present cannulae
+NOT present forkfuls
+present apagoges
+NOT present papyrine
+present quaffs
+present unserved
+NOT present menage
+NOT present swopped
+Int: screech eyeholes sonars upleapt one cannulae apagoges quaffs unserved 

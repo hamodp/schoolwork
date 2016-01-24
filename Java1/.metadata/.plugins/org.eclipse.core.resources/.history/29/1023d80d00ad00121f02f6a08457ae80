@@ -1,0 +1,46 @@
+import java.util.*;
+
+
+public class OneSet implements IOneSet {
+
+  private ArrayList<String> theSet;
+  private HashSet<String> hashtable;
+  
+  public OneSet(Scanner inFile)
+  {
+	  theSet = new ArrayList<String>();
+	  hashtable = new HashSet<String>();
+	  this.readSet(inFile);
+  }
+  
+  
+	public ArrayList<String> getTheSet() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void addElement(String element) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean containsElement(String element) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void readSet(Scanner inFile) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public OneSet intersectWith(OneSet that) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

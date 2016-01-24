@@ -1,0 +1,933 @@
+Beginning of data of 930 lines of CVR
+    1   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+    1   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+    2   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+    2   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+    2   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+    2   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+    2   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+    2   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+    2   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+    2   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+    2   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+    2   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+    2   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+    2   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+    3   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+    3   101 Ward 1               5125111     2   17  Nammu Y Muhammad                        CONG006 U.S. House of Representatives 
+    3   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+    3   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+    3   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+    3   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+    3   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+    3   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+    3   101 Ward 1               5125111     2   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+    3   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+    3   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+    3   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+    3   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+    4   101 Ward 1               5125111 N   3    3  Democratic                              STRAIGHT PARTY 
+    4   101 Ward 1               5125111     3    9  Barack Obama                            President of Vice President 
+    4   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+    4   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+    4   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+    4   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+    4   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+    4   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+    4   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+    4   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+    4   101 Ward 1               5125111     3   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+    4   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+    4   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+    4   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+    4   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+    5   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+    5   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+    5   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+    5   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+    5   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+    5   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+    5   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+    5   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+    5   101 Ward 1               5125111     3   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+    5   101 Ward 1               5125111     3   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+    5   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+    5   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+    5   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+    5   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+    6   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+    6   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+    6   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+    6   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+    7   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+    7   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+    7   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+    7   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+    7   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+    7   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+    7   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+    7   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+    7   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+    7   101 Ward 1               5125111     3   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+    7   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+    7   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+    7   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+    7   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+    8   101 Ward 1               5125111 N   3    3  Democratic                              STRAIGHT PARTY 
+    8   101 Ward 1               5125111     3    9  Barack Obama                            President of Vice President 
+    8   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+    8   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+    8   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+    8   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+    8   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+    8   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+    9   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+    9   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+    9   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+    9   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+    9   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+    9   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   10   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   10   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   10   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   10   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   10   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   10   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   10   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   10   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   10   101 Ward 1               5125111     2   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   10   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   10   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   10   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   10   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   11   101 Ward 1               5125111 N   3    3  Democratic                              STRAIGHT PARTY 
+   11   101 Ward 1               5125111     3    9  Barack Obama                            President of Vice President 
+   11   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   11   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   11   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   11   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   11   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   11   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   11   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   11   101 Ward 1               5125111     3   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   11   101 Ward 1               5125111     3   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   11   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   11   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+   11   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   11   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   12   101 Ward 1               5125111 N   2   11  Jill Stein                              President of Vice President 
+   12   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   12   101 Ward 1               5125111     2   22  Scott West                              SEND020 State Senate 
+   12   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   12   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   12   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   12   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   12   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   12   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   12   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   12   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   12   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   12   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   13   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   13   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   13   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   13   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   13   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   13   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   13   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   13   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   13   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   13   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   13   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   13   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   13   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   13   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   14   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   14   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   14   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   14   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   14   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   14   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   14   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   14   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   14   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   14   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   14   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   14   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   15   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   15   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   15   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   15   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   15   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   15   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   15   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   15   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   15   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   15   101 Ward 1               5125111     2   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   15   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   15   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   15   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   15   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   16   101 Ward 1               5125111 N   2    3  Democratic                              STRAIGHT PARTY 
+   16   101 Ward 1               5125111     2    9  Barack Obama                            President of Vice President 
+   16   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   16   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   16   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   16   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   16   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   16   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   16   101 Ward 1               5125111     2   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   16   101 Ward 1               5125111     2   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   16   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   16   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   16   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   16   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   17   101 Ward 1               5125111 N   3   21  Robert Rikard                           SEND020 State Senate 
+   17   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   17   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   17   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   17   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   17   101 Ward 1               5125111     3   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   17   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   17   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   17   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   17   101 Ward 1               5125111     3   60  No                                      Local Question 2 
+   18   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   18   101 Ward 1               5125111     2   18  W/I MICKEY-MOUSE                        CONG006 U.S. House of Representatives 
+   18   101 Ward 1               5125111     2   22  Scott West                              SEND020 State Senate 
+   18   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   18   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   18   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   18   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   18   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   18   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   18   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   18   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   18   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   18   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   18   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   19   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   19   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   19   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   19   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   19   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   19   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   19   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   19   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   19   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   19   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   19   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   19   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   19   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   20   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+   20   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   20   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   20   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   20   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   20   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   20   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   20   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   20   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   20   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   20   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   20   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   20   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   21   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+   21   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   21   101 Ward 1               5125111     3   20  John Courson                            SEND020 State Senate 
+   21   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   21   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   21   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   21   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   21   101 Ward 1               5125111     3   41  W/I SANDRA BROWN                        Soil and Water District Commission 
+   21   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   21   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   21   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+   21   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   21   101 Ward 1               5125111     3   60  No                                      Local Question 2 
+   22   101 Ward 1               5125111 N   2    3  Democratic                              STRAIGHT PARTY 
+   22   101 Ward 1               5125111     2    9  Barack Obama                            President of Vice President 
+   22   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   22   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   22   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   22   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   22   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   22   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   22   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   22   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   23   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   23   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   23   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   23   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   23   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   23   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   23   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   23   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   23   101 Ward 1               5125111     2   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   23   101 Ward 1               5125111     2   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   23   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   23   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   23   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   23   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   24   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   24   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   24   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   24   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   24   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   24   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   24   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   24   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   24   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   24   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   24   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   24   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   24   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   25   101 Ward 1               5125111 N   2    1  Republican                              STRAIGHT PARTY 
+   25   101 Ward 1               5125111     2    7  Mitt Romney                             President of Vice President 
+   25   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   25   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   25   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   25   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   25   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   25   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   25   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   25   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   25   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   25   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   25   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   25   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   25   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   26   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   26   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   26   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   26   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   26   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   26   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   26   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   26   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   26   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   26   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   26   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   26   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   26   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   26   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   27   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+   27   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   27   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   27   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   27   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   27   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   27   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   27   101 Ward 1               5125111     3   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   27   101 Ward 1               5125111     3   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   27   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   27   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   27   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   28   101 Ward 1               5125111 N   4    9  Barack Obama                            President of Vice President 
+   28   101 Ward 1               5125111     4   13  Joe Wilson                              CONG002 U.S. House of Representatives 
+   28   101 Ward 1               5125111     4   20  John Courson                            SEND020 State Senate 
+   28   101 Ward 1               5125111     4   25  James Smith                             HOU072 State House of Representatives 
+   28   101 Ward 1               5125111     4   31  Leon Lott                               Sheriff 
+   28   101 Ward 1               5125111     4   34  Gary Watts                              Coroner 
+   28   101 Ward 1               5125111     4   37  Jeanette W McBride                      Clerk of Court 
+   28   101 Ward 1               5125111     4   40  John V Green                            Soil and Water District Commission 
+   28   101 Ward 1               5125111     4   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   28   101 Ward 1               5125111     4   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   28   101 Ward 1               5125111     4   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   28   101 Ward 1               5125111     4   53  Yes                                     Statewide Amendment No 1 
+   28   101 Ward 1               5125111     4   56  Yes                                     Local Question 1 
+   28   101 Ward 1               5125111     4   59  Yes                                     Local Question 2 
+   29   101 Ward 1               5125111 N   3    1  Republican                              STRAIGHT PARTY 
+   29   101 Ward 1               5125111     3    7  Mitt Romney                             President of Vice President 
+   29   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   29   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   29   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   30   101 Ward 1               5125111 N   4    9  Barack Obama                            President of Vice President 
+   30   101 Ward 1               5125111     4   13  Joe Wilson                              CONG002 U.S. House of Representatives 
+   30   101 Ward 1               5125111     4   21  Robert Rikard                           SEND020 State Senate 
+   30   101 Ward 1               5125111     4   25  James Smith                             HOU072 State House of Representatives 
+   30   101 Ward 1               5125111     4   31  Leon Lott                               Sheriff 
+   30   101 Ward 1               5125111     4   34  Gary Watts                              Coroner 
+   30   101 Ward 1               5125111     4   37  Jeanette W McBride                      Clerk of Court 
+   30   101 Ward 1               5125111     4   40  John V Green                            Soil and Water District Commission 
+   30   101 Ward 1               5125111     4   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   30   101 Ward 1               5125111     4   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   30   101 Ward 1               5125111     4   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   30   101 Ward 1               5125111     4   53  Yes                                     Statewide Amendment No 1 
+   30   101 Ward 1               5125111     4   56  Yes                                     Local Question 1 
+   30   101 Ward 1               5125111     4   59  Yes                                     Local Question 2 
+   31   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+   31   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   31   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+   31   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   32   101 Ward 1               5125111 N   3    7  Mitt Romney                             President of Vice President 
+   32   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   32   101 Ward 1               5125111     3   20  John Courson                            SEND020 State Senate 
+   32   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   32   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   32   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   32   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   32   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   32   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   32   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   32   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   32   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   32   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   33   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   33   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   33   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   33   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   33   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   33   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   33   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   33   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   33   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   33   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   33   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   33   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   34   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   34   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   34   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   34   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   34   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   34   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   34   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   34   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   34   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   34   101 Ward 1               5125111     2   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   34   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   34   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   34   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   34   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   35   101 Ward 1               5125111 N   2    3  Democratic                              STRAIGHT PARTY 
+   35   101 Ward 1               5125111     2    9  Barack Obama                            President of Vice President 
+   35   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   35   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   35   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   35   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   35   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   35   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   35   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   35   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   35   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   35   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   35   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   36   101 Ward 1               5125111 N   3    7  Mitt Romney                             President of Vice President 
+   36   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   36   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   36   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   36   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   36   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   36   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   36   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   36   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   36   101 Ward 1               5125111     3   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   36   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   36   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   36   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   36   101 Ward 1               5125111     3   60  No                                      Local Question 2 
+   37   101 Ward 1               5125111 N   3    3  Democratic                              STRAIGHT PARTY 
+   37   101 Ward 1               5125111     3    9  Barack Obama                            President of Vice President 
+   37   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   37   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   37   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   37   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   37   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   37   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   37   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+   37   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   37   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   38   101 Ward 1               5125111 N   3    1  Republican                              STRAIGHT PARTY 
+   38   101 Ward 1               5125111     3    7  Mitt Romney                             President of Vice President 
+   38   101 Ward 1               5125111     3   20  John Courson                            SEND020 State Senate 
+   38   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+   38   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   38   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   39   101 Ward 1               5125111 N   2    1  Republican                              STRAIGHT PARTY 
+   39   101 Ward 1               5125111     2    7  Mitt Romney                             President of Vice President 
+   39   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   39   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   39   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   39   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   40   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   40   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   40   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   40   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   40   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   40   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   40   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   40   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   40   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   40   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   40   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   41   101 Ward 1               5125111 N   3    1  Republican                              STRAIGHT PARTY 
+   41   101 Ward 1               5125111     3    7  Mitt Romney                             President of Vice President 
+   41   101 Ward 1               5125111     3   20  John Courson                            SEND020 State Senate 
+   41   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   41   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   41   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   42   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   42   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   42   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   42   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   42   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   42   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   42   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   42   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   42   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   42   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   42   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   42   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   42   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   42   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   43   101 Ward 1               5125111 N   4    1  Republican                              STRAIGHT PARTY 
+   43   101 Ward 1               5125111     4    7  Mitt Romney                             President of Vice President 
+   43   101 Ward 1               5125111     4   13  Joe Wilson                              CONG002 U.S. House of Representatives 
+   43   101 Ward 1               5125111     4   20  John Courson                            SEND020 State Senate 
+   43   101 Ward 1               5125111     4   53  Yes                                     Statewide Amendment No 1 
+   43   101 Ward 1               5125111     4   57  No                                      Local Question 1 
+   43   101 Ward 1               5125111     4   60  No                                      Local Question 2 
+   44   101 Ward 1               5125111 N   3    8  Gary Johnson                            President of Vice President 
+   44   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   44   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   45   101 Ward 1               5125111 N   2    1  Republican                              STRAIGHT PARTY 
+   45   101 Ward 1               5125111     2    7  Mitt Romney                             President of Vice President 
+   45   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   45   101 Ward 1               5125111     2   32  W/I FRANCIS KEHOE                       Sheriff 
+   45   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   45   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   45   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   45   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   46   101 Ward 1               5125111 N   2    1  Republican                              STRAIGHT PARTY 
+   46   101 Ward 1               5125111     2    7  Mitt Romney                             President of Vice President 
+   46   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   46   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   46   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   46   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   47   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   47   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   47   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   47   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   47   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   47   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   48   101 Ward 1               5125111 N   2    1  Republican                              STRAIGHT PARTY 
+   48   101 Ward 1               5125111     2    7  Mitt Romney                             President of Vice President 
+   48   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   48   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   48   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   49   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   49   101 Ward 1               5125111     2   17  Nammu Y Muhammad                        CONG006 U.S. House of Representatives 
+   49   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   49   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   49   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   49   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   49   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   49   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   49   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   49   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   49   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   49   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   49   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   49   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   50   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+   50   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   50   101 Ward 1               5125111     3   20  John Courson                            SEND020 State Senate 
+   50   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   50   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   50   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   50   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   50   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   50   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   50   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   50   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   50   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   50   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   51   101 Ward 1               5125111 N   2    3  Democratic                              STRAIGHT PARTY 
+   51   101 Ward 1               5125111     2    9  Barack Obama                            President of Vice President 
+   51   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   51   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   51   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   51   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   51   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   51   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   51   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   51   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   51   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   52   101 Ward 1               5125111 N   2    8  Gary Johnson                            President of Vice President 
+   52   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   52   101 Ward 1               5125111     2   22  Scott West                              SEND020 State Senate 
+   52   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   52   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   52   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   52   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   52   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   52   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   52   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   52   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   53   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+   53   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   53   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   53   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   53   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   53   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   53   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   53   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   53   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+   53   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   53   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   54   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   54   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   54   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   54   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   54   101 Ward 1               5125111     2   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   54   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   54   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   54   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   54   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   55   101 Ward 1               5125111 N   3    7  Mitt Romney                             President of Vice President 
+   55   101 Ward 1               5125111     3   20  John Courson                            SEND020 State Senate 
+   55   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   55   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   55   101 Ward 1               5125111     3   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   55   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   55   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   55   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   56   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   56   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   56   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   56   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   56   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   56   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   56   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   56   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   56   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   56   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   56   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   56   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   56   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   56   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   57   101 Ward 1               5125111 N   2    1  Republican                              STRAIGHT PARTY 
+   57   101 Ward 1               5125111     2    7  Mitt Romney                             President of Vice President 
+   57   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   57   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   57   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   57   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   57   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   58   101 Ward 1               5125111 N   2    8  Gary Johnson                            President of Vice President 
+   58   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   58   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   58   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   58   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   58   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   58   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   58   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   58   101 Ward 1               5125111     2   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   58   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   58   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   58   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   58   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   58   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   59   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   59   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   59   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   59   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   59   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   59   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   59   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   59   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   59   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   59   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   59   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   60   101 Ward 1               5125111 N   4    3  Democratic                              STRAIGHT PARTY 
+   60   101 Ward 1               5125111     4    9  Barack Obama                            President of Vice President 
+   60   101 Ward 1               5125111     4   21  Robert Rikard                           SEND020 State Senate 
+   60   101 Ward 1               5125111     4   25  James Smith                             HOU072 State House of Representatives 
+   60   101 Ward 1               5125111     4   31  Leon Lott                               Sheriff 
+   60   101 Ward 1               5125111     4   34  Gary Watts                              Coroner 
+   60   101 Ward 1               5125111     4   37  Jeanette W McBride                      Clerk of Court 
+   60   101 Ward 1               5125111     4   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   60   101 Ward 1               5125111     4   54  No                                      Statewide Amendment No 1 
+   60   101 Ward 1               5125111     4   57  No                                      Local Question 1 
+   60   101 Ward 1               5125111     4   60  No                                      Local Question 2 
+   61   101 Ward 1               5125111 N   2    1  Republican                              STRAIGHT PARTY 
+   61   101 Ward 1               5125111     2    7  Mitt Romney                             President of Vice President 
+   61   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   61   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   61   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   61   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   62   101 Ward 1               5125111 N   4    1  Republican                              STRAIGHT PARTY 
+   62   101 Ward 1               5125111     4    7  Mitt Romney                             President of Vice President 
+   62   101 Ward 1               5125111     4   13  Joe Wilson                              CONG002 U.S. House of Representatives 
+   62   101 Ward 1               5125111     4   20  John Courson                            SEND020 State Senate 
+   62   101 Ward 1               5125111     4   54  No                                      Statewide Amendment No 1 
+   62   101 Ward 1               5125111     4   56  Yes                                     Local Question 1 
+   62   101 Ward 1               5125111     4   60  No                                      Local Question 2 
+   63   101 Ward 1               5125111 N   2    1  Republican                              STRAIGHT PARTY 
+   63   101 Ward 1               5125111     2    7  Mitt Romney                             President of Vice President 
+   63   101 Ward 1               5125111     2   17  Nammu Y Muhammad                        CONG006 U.S. House of Representatives 
+   63   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   63   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   63   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   63   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   63   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   63   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   63   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   63   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   63   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   63   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   63   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   64   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   64   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   64   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   64   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   64   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   64   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   64   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   64   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   64   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   64   101 Ward 1               5125111     2   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   64   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   64   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   64   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   64   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   65   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+   65   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   65   101 Ward 1               5125111     3   20  John Courson                            SEND020 State Senate 
+   65   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   65   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   65   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   65   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   65   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   65   101 Ward 1               5125111     3   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   65   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   65   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+   65   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   65   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   66   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   66   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   66   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   66   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   66   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   66   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   66   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   66   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   66   101 Ward 1               5125111     2   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   66   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   66   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   66   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   66   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   66   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   67   101 Ward 1               5125111 N   3    7  Mitt Romney                             President of Vice President 
+   67   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   67   101 Ward 1               5125111     3   20  John Courson                            SEND020 State Senate 
+   67   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   67   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   67   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   67   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   67   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   67   101 Ward 1               5125111     3   60  No                                      Local Question 2 
+   68   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   68   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   68   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   68   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   68   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   68   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   68   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   68   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   68   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   68   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   68   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   68   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   68   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   68   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   69   101 Ward 1               5125111 N   4    3  Democratic                              STRAIGHT PARTY 
+   69   101 Ward 1               5125111     4    9  Barack Obama                            President of Vice President 
+   69   101 Ward 1               5125111     4   21  Robert Rikard                           SEND020 State Senate 
+   69   101 Ward 1               5125111     4   25  James Smith                             HOU072 State House of Representatives 
+   69   101 Ward 1               5125111     4   31  Leon Lott                               Sheriff 
+   69   101 Ward 1               5125111     4   34  Gary Watts                              Coroner 
+   69   101 Ward 1               5125111     4   37  Jeanette W McBride                      Clerk of Court 
+   69   101 Ward 1               5125111     4   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   69   101 Ward 1               5125111     4   53  Yes                                     Statewide Amendment No 1 
+   69   101 Ward 1               5125111     4   56  Yes                                     Local Question 1 
+   70   101 Ward 1               5125111 N   4    7  Mitt Romney                             President of Vice President 
+   70   101 Ward 1               5125111     4   13  Joe Wilson                              CONG002 U.S. House of Representatives 
+   70   101 Ward 1               5125111     4   20  John Courson                            SEND020 State Senate 
+   70   101 Ward 1               5125111     4   25  James Smith                             HOU072 State House of Representatives 
+   70   101 Ward 1               5125111     4   31  Leon Lott                               Sheriff 
+   70   101 Ward 1               5125111     4   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   70   101 Ward 1               5125111     4   53  Yes                                     Statewide Amendment No 1 
+   70   101 Ward 1               5125111     4   57  No                                      Local Question 1 
+   71   101 Ward 1               5125111 N   3    3  Democratic                              STRAIGHT PARTY 
+   71   101 Ward 1               5125111     3    9  Barack Obama                            President of Vice President 
+   71   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   71   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   71   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   71   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   71   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   71   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   71   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   71   101 Ward 1               5125111     3   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   71   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   71   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   71   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   71   101 Ward 1               5125111     3   60  No                                      Local Question 2 
+   72   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   72   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   72   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   72   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   72   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   72   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   72   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   72   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   72   101 Ward 1               5125111     2   44  Moryah Jackson                          SCH1ALG School Board District 1 At Large 
+   72   101 Ward 1               5125111     2   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   72   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   72   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   72   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   72   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   73   101 Ward 1               5125111 N   3    7  Mitt Romney                             President of Vice President 
+   73   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   73   101 Ward 1               5125111     3   20  John Courson                            SEND020 State Senate 
+   73   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   73   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   73   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   73   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   73   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   73   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   73   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   73   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   73   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   73   101 Ward 1               5125111     3   60  No                                      Local Question 2 
+   74   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+   74   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   74   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   74   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   74   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   74   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   74   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   74   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   74   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   74   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   74   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   74   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   75   101 Ward 1               5125111 N   2    1  Republican                              STRAIGHT PARTY 
+   75   101 Ward 1               5125111     2    7  Mitt Romney                             President of Vice President 
+   75   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   75   101 Ward 1               5125111     2   29  W/I JAMIE BEIDAS                        HOU074 State House of Representatives 
+   75   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   75   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   75   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   76   101 Ward 1               5125111 N   3    7  Mitt Romney                             President of Vice President 
+   76   101 Ward 1               5125111     3   18  W/I MICKEY MOUSE                        CONG006 U.S. House of Representatives 
+   76   101 Ward 1               5125111     3   20  John Courson                            SEND020 State Senate 
+   76   101 Ward 1               5125111     3   26  W/I DONALD DUCK                         HOU072 State House of Representatives 
+   76   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   76   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   76   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   76   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   76   101 Ward 1               5125111     3   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   76   101 Ward 1               5125111     3   51  W/I GOOFY                               SCHO013 School Board District 1 Seat 3 
+   76   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+   76   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   76   101 Ward 1               5125111     3   60  No                                      Local Question 2 
+   77   101 Ward 1               5125111 N   2    7  Mitt Romney                             President of Vice President 
+   77   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   77   101 Ward 1               5125111     2   21  Robert Rikard                           SEND020 State Senate 
+   77   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   77   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   77   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   77   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   77   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   77   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   77   101 Ward 1               5125111     2   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   77   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   77   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   77   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   77   101 Ward 1               5125111     2   60  No                                      Local Question 2 
+   78   101 Ward 1               5125111 N   2    1  Republican                              STRAIGHT PARTY 
+   78   101 Ward 1               5125111     2    7  Mitt Romney                             President of Vice President 
+   78   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   78   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   78   101 Ward 1               5125111     2   57  No                                      Local Question 1 
+   78   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   79   101 Ward 1               5125111 N   3    3  Democratic                              STRAIGHT PARTY 
+   79   101 Ward 1               5125111     3    9  Barack Obama                            President of Vice President 
+   79   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   79   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   79   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   79   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   79   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   79   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   79   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   79   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   79   101 Ward 1               5125111     3   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   79   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   79   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   79   101 Ward 1               5125111     3   56  Yes                                     Local Question 1 
+   79   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   80   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+   80   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   80   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   80   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   80   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   80   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   80   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   80   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   80   101 Ward 1               5125111     3   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   80   101 Ward 1               5125111     3   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   80   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   80   101 Ward 1               5125111     3   53  Yes                                     Statewide Amendment No 1 
+   80   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   80   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   81   101 Ward 1               5125111 N   2    8  Gary Johnson                            President of Vice President 
+   81   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   81   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   81   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   81   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   81   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   81   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   81   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   81   101 Ward 1               5125111     2   53  Yes                                     Statewide Amendment No 1 
+   81   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   81   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+   82   101 Ward 1               5125111 N   4    9  Barack Obama                            President of Vice President 
+   82   101 Ward 1               5125111     4   21  Robert Rikard                           SEND020 State Senate 
+   82   101 Ward 1               5125111     4   25  James Smith                             HOU072 State House of Representatives 
+   82   101 Ward 1               5125111     4   34  Gary Watts                              Coroner 
+   82   101 Ward 1               5125111     4   37  Jeanette W McBride                      Clerk of Court 
+   82   101 Ward 1               5125111     4   40  John V Green                            Soil and Water District Commission 
+   82   101 Ward 1               5125111     4   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   82   101 Ward 1               5125111     4   53  Yes                                     Statewide Amendment No 1 
+   82   101 Ward 1               5125111     4   57  No                                      Local Question 1 
+   82   101 Ward 1               5125111     4   60  No                                      Local Question 2 
+   83   101 Ward 1               5125111 N   3    9  Barack Obama                            President of Vice President 
+   83   101 Ward 1               5125111     3   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   83   101 Ward 1               5125111     3   21  Robert Rikard                           SEND020 State Senate 
+   83   101 Ward 1               5125111     3   25  James Smith                             HOU072 State House of Representatives 
+   83   101 Ward 1               5125111     3   31  Leon Lott                               Sheriff 
+   83   101 Ward 1               5125111     3   34  Gary Watts                              Coroner 
+   83   101 Ward 1               5125111     3   37  Jeanette W McBride                      Clerk of Court 
+   83   101 Ward 1               5125111     3   40  John V Green                            Soil and Water District Commission 
+   83   101 Ward 1               5125111     3   45  Antjuan Seawright                       SCH1ALG School Board District 1 At Large 
+   83   101 Ward 1               5125111     3   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   83   101 Ward 1               5125111     3   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   83   101 Ward 1               5125111     3   54  No                                      Statewide Amendment No 1 
+   83   101 Ward 1               5125111     3   57  No                                      Local Question 1 
+   83   101 Ward 1               5125111     3   59  Yes                                     Local Question 2 
+   84   101 Ward 1               5125111 N   2    9  Barack Obama                            President of Vice President 
+   84   101 Ward 1               5125111     2   16  James E Jim Clyburn                     CONG006 U.S. House of Representatives 
+   84   101 Ward 1               5125111     2   20  John Courson                            SEND020 State Senate 
+   84   101 Ward 1               5125111     2   28  J Todd Rutherford                       HOU074 State House of Representatives 
+   84   101 Ward 1               5125111     2   31  Leon Lott                               Sheriff 
+   84   101 Ward 1               5125111     2   34  Gary Watts                              Coroner 
+   84   101 Ward 1               5125111     2   37  Jeanette W McBride                      Clerk of Court 
+   84   101 Ward 1               5125111     2   40  John V Green                            Soil and Water District Commission 
+   84   101 Ward 1               5125111     2   43  Vince Ford                              SCH1ALG School Board District 1 At Large 
+   84   101 Ward 1               5125111     2   46  Barbara A Scott                         SCH1ALG School Board District 1 At Large 
+   84   101 Ward 1               5125111     2   50  Beatrice King                           SCHO013 School Board District 1 Seat 3 
+   84   101 Ward 1               5125111     2   54  No                                      Statewide Amendment No 1 
+   84   101 Ward 1               5125111     2   56  Yes                                     Local Question 1 
+   84   101 Ward 1               5125111     2   59  Yes                                     Local Question 2 
+End of data of 930 lines of CVR
+

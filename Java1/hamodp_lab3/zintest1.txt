@@ -1,0 +1,27 @@
+<text>
+  <body>
+    <div>
+      <thistag      x="y" z="w">
+Data for 'thistag'
+      </thistag>
+      <thattag x="A"           z="B">
+Data for 'thattag'
+      </thattag>
+      <anothertag>
+Data for 'anothertag'
+      </anothertag>
+    </div>
+    <div>
+      <bigtag student="yes">
+Data for 'bigtag'
+      </bigtag>
+      <littletag>
+Data for 'littletag'
+      </littletag>
+      <anothertag teacher="no"     >
+Data for 'anothertag'
+      </anothertag>
+    </div>
+  </body>
+</text>
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;hamopd_lab05/zin4.txt&apos; to &apos;zin.txt&apos;" description="Rename resource &apos;zin4.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="zin4.txt" name="zin.txt" stamp="1361991170978" updateReferences="true"/>
+</session>

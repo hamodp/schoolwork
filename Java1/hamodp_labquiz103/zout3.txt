@@ -1,0 +1,162 @@
+The list is
+   0 anuria          attache         basifier        accuses         bullwhip        
+   1 bullwhip        attache         anuria          basifier        accuses         
+   2 bullwhip        basifier        attache         anuria          accuses         
+   3 anuria          attache         accuses         basifier        bullwhip        
+   4 anuria          accuses         bullwhip        attache         basifier        
+   5 basifier        anuria          attache         accuses         bullwhip        
+   6 accuses         bullwhip        anuria          attache         basifier        
+   7 accuses         bullwhip        attache         basifier        anuria          
+   8 anuria          accuses         attache         bullwhip        basifier        
+   9 anuria          attache         basifier        bullwhip        accuses         
+  10 basifier        anuria          accuses         bullwhip        attache         
+  11 basifier        bullwhip        anuria          attache         accuses         
+  12 basifier        bullwhip        anuria          accuses         attache         
+  13 bullwhip        anuria          accuses         attache         basifier        
+  14 accuses         attache         basifier        anuria          bullwhip        
+  15 basifier        anuria          bullwhip        accuses         attache         
+  16 basifier        accuses         bullwhip        attache         anuria          
+  17 basifier        bullwhip        attache         accuses         anuria          
+  18 accuses         basifier        anuria          bullwhip        attache         
+  19 attache         bullwhip        accuses         anuria          basifier        
+  20 basifier        accuses         anuria          bullwhip        attache         
+  21 basifier        anuria          attache         bullwhip        accuses         
+  22 accuses         basifier        attache         bullwhip        anuria          
+  23 attache         bullwhip        accuses         basifier        anuria          
+  24 attache         basifier        accuses         anuria          bullwhip        
+  25 bullwhip        basifier        anuria          attache         accuses         
+  26 anuria          accuses         basifier        bullwhip        attache         
+  27 basifier        bullwhip        accuses         attache         anuria          
+  28 attache         anuria          bullwhip        basifier        accuses         
+  29 anuria          attache         bullwhip        accuses         basifier        
+  30 attache         anuria          basifier        bullwhip        accuses         
+  31 anuria          bullwhip        accuses         basifier        attache         
+  32 attache         basifier        anuria          accuses         bullwhip        
+  33 bullwhip        basifier        anuria          accuses         attache         
+  34 accuses         anuria          bullwhip        basifier        attache         
+  35 attache         bullwhip        anuria          accuses         basifier        
+  36 accuses         basifier        anuria          attache         bullwhip        
+  37 anuria          accuses         bullwhip        basifier        attache         
+  38 attache         accuses         anuria          basifier        bullwhip        
+  39 bullwhip        accuses         basifier        anuria          attache         
+  40 anuria          accuses         attache         basifier        bullwhip        
+  41 bullwhip        attache         accuses         basifier        anuria          
+  42 basifier        attache         bullwhip        anuria          accuses         
+  43 bullwhip        accuses         attache         anuria          basifier        
+  44 accuses         attache         bullwhip        anuria          basifier        
+  45 bullwhip        anuria          basifier        accuses         attache         
+  46 bullwhip        anuria          attache         accuses         basifier        
+  47 accuses         bullwhip        basifier        attache         anuria          
+  48 bullwhip        basifier        attache         accuses         anuria          
+  49 basifier        attache         anuria          accuses         bullwhip        
+  50 attache         accuses         bullwhip        anuria          basifier        
+  51 bullwhip        accuses         anuria          basifier        attache         
+  52 bullwhip        accuses         anuria          attache         basifier        
+  53 attache         accuses         basifier        anuria          bullwhip        
+  54 attache         basifier        accuses         bullwhip        anuria          
+  55 attache         anuria          accuses         basifier        bullwhip        
+  56 attache         basifier        anuria          bullwhip        accuses         
+  57 bullwhip        accuses         attache         basifier        anuria          
+  58 basifier        bullwhip        attache         anuria          accuses         
+  59 bullwhip        attache         anuria          accuses         basifier        
+  60 anuria          attache         bullwhip        basifier        accuses         
+  61 attache         anuria          accuses         bullwhip        basifier        
+  62 accuses         attache         anuria          bullwhip        basifier        
+  63 accuses         anuria          attache         basifier        bullwhip        
+  64 attache         bullwhip        anuria          basifier        accuses         
+  65 basifier        attache         accuses         anuria          bullwhip        
+  66 basifier        attache         accuses         bullwhip        anuria          
+  67 bullwhip        anuria          accuses         basifier        attache         
+  68 accuses         bullwhip        attache         anuria          basifier        
+  69 attache         anuria          bullwhip        accuses         basifier        
+  70 anuria          basifier        accuses         attache         bullwhip        
+  71 anuria          basifier        attache         bullwhip        accuses         
+  72 bullwhip        attache         basifier        accuses         anuria          
+  73 anuria          basifier        accuses         bullwhip        attache         
+  74 anuria          bullwhip        basifier        accuses         attache         
+  75 accuses         attache         anuria          basifier        bullwhip        
+  76 attache         anuria          basifier        accuses         bullwhip        
+  77 bullwhip        attache         accuses         anuria          basifier        
+  78 anuria          basifier        bullwhip        accuses         attache         
+  79 anuria          bullwhip        attache         accuses         basifier        
+  80 accuses         anuria          basifier        bullwhip        attache         
+  81 basifier        anuria          bullwhip        attache         accuses         
+  82 bullwhip        anuria          attache         basifier        accuses         
+  83 basifier        anuria          accuses         attache         bullwhip        
+  84 accuses         bullwhip        anuria          basifier        attache         
+  85 attache         accuses         anuria          bullwhip        basifier        
+  86 attache         basifier        bullwhip        anuria          accuses         
+  87 bullwhip        basifier        accuses         anuria          attache         
+  88 accuses         anuria          attache         bullwhip        basifier        
+  89 accuses         anuria          basifier        attache         bullwhip        
+  90 accuses         basifier        bullwhip        attache         anuria          
+  91 anuria          attache         accuses         bullwhip        basifier        
+  92 anuria          basifier        bullwhip        attache         accuses         
+  93 accuses         anuria          bullwhip        attache         basifier        
+  94 attache         bullwhip        basifier        accuses         anuria          
+  95 accuses         attache         basifier        bullwhip        anuria          
+  96 basifier        bullwhip        accuses         anuria          attache         
+  97 bullwhip        anuria          basifier        attache         accuses         
+  98 attache         bullwhip        basifier        anuria          accuses         
+  99 anuria          accuses         basifier        attache         bullwhip        
+ 100 anuria          basifier        attache         accuses         bullwhip        
+ 101 attache         accuses         bullwhip        basifier        anuria          
+ 102 basifier        accuses         attache         anuria          bullwhip        
+ 103 basifier        accuses         bullwhip        anuria          attache         
+ 104 accuses         attache         bullwhip        basifier        anuria          
+ 105 accuses         basifier        bullwhip        anuria          attache         
+ 106 attache         accuses         basifier        bullwhip        anuria          
+ 107 anuria          bullwhip        accuses         attache         basifier        
+ 108 anuria          bullwhip        attache         basifier        accuses         
+ 109 basifier        attache         bullwhip        accuses         anuria          
+ 110 bullwhip        attache         basifier        anuria          accuses         
+ 111 anuria          bullwhip        basifier        attache         accuses         
+ 112 attache         basifier        bullwhip        accuses         anuria          
+ 113 basifier        accuses         attache         bullwhip        anuria          
+ 114 bullwhip        accuses         basifier        attache         anuria          
+ 115 basifier        attache         anuria          bullwhip        accuses         
+ 116 bullwhip        basifier        accuses         attache         anuria          
+ 117 accuses         basifier        attache         anuria          bullwhip        
+ 118 accuses         bullwhip        basifier        anuria          attache         
+ 119 basifier        accuses         anuria          attache         bullwhip        
+
+The word to be tested is 'basifier' in position 2
+
+The first occurrence of word 'basifier' at position 2 is
+     '   0 anuria          attache         basifier        accuses         bullwhip        '
+
+The third occurrence of word 'basifier' at position 2 is
+     '  14 accuses         attache         basifier        anuria          bullwhip        '
+
+The word to be tested is 'anuria' in position 1
+
+The first occurrence of word 'anuria' at position 1 is
+     '   5 basifier        anuria          attache         accuses         bullwhip        '
+
+The third occurrence of word 'anuria' at position 1 is
+     '  13 bullwhip        anuria          accuses         attache         basifier        '
+
+The word to be tested is 'attache' in position 0
+
+The first occurrence of word 'attache' at position 0 is
+     '  19 attache         bullwhip        accuses         anuria          basifier        '
+
+The third occurrence of word 'attache' at position 0 is
+     '  24 attache         basifier        accuses         anuria          bullwhip        '
+
+The word to be tested is 'accuses' in position 4
+
+The first occurrence of word 'accuses' at position 4 is
+     '   1 bullwhip        attache         anuria          basifier        accuses         '
+
+The third occurrence of word 'accuses' at position 4 is
+     '   9 anuria          attache         basifier        bullwhip        accuses         '
+
+The word to be tested is 'bullwhip' in position 3
+
+The first occurrence of word 'bullwhip' at position 3 is
+     '   8 anuria          accuses         attache         bullwhip        basifier        '
+
+The third occurrence of word 'bullwhip' at position 3 is
+     '  10 basifier        anuria          accuses         bullwhip        attache         '
+

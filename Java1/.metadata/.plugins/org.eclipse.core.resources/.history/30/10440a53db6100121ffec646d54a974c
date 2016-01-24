@@ -1,0 +1,43 @@
+import java.io.PrintWriter;
+import java.util.Scanner;
+/*********************************************************************
+ * Homework 01: Parsing an EL155 Cast Vote Record.
+ * We read the EL155 and create an 'ArrayList' of each choice.
+ *
+ * Copyright (C) 2012 by Duncan A. Buell.  All rights reserved.
+ *
+ * @author Duncan A. Buell
+ * @version 1.00 2012-12-20
+**/
+public class Driver 
+{
+/*********************************************************************
+ * main method.
+**/
+  public static void main (String[] args)
+  {
+    Scanner inFile = null;
+    PrintWriter outFile = null;
+    ReadTheFile readTheFile = null;
+
+    inFile = FileUtils.ScannerOpen("EL155.102");
+    outFile = FileUtils.PrintWriterOpen("zout.txt");
+    FileUtils.SetLogFile("zlog.txt");
+
+    System.out.println("begin execution");
+
+    readTheFile = new ReadTheFile(inFile);
+
+   
+    readTheFile.toString();
+    outFile.printf("%s%n", readTheFile);
+    
+    outFile.flush();
+    FileUtils.logFile.flush();
+
+    System.out.printf("end execution%n");
+  }
+
+
+} // public class Driver
+

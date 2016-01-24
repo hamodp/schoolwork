@@ -1,0 +1,95 @@
+import java.util.*;
+
+/*********************************************************************
+ * creates sets
+ *
+ * Copyright (C) 2013 by Duncan A. Buell.  All rights reserved.
+ *
+ * @author Patrick Hamod
+ * @version 1.00 2013-04-24
+**/
+
+public class OneSet implements IOneSet {
+
+  private Scanner inFile;
+  private ArrayList<String> theSet;
+  private HashSet<String> hashtable;
+  
+  public OneSet()
+  {
+	  theSet = new ArrayList<String>();
+	  hashtable = new HashSet<String>();
+  }
+  
+  public OneSet(String fileName)
+  {
+	  theSet = new ArrayList<String>();
+	  hashtable = new HashSet<String>();
+	  inFile = FileUtils.ScannerOpen(fileName);
+	  this.readSet(inFile);
+  }
+  
+  
+	public ArrayList<String> getTheSet() {
+		
+		return theSet;
+	}
+
+	@Override
+	public void addElement(String element)
+	{
+		if(! containsElement(element))
+		{
+			theSet.add(element);
+			hashtable.add(element);
+		}
+		
+	}
+
+	@Override
+	public boolean containsElement(String element) {
+		for(String s: hashtable)
+		{
+			if(s.equals(element))
+			{
+				return true;
+			}
+		}
+		return false;
+	}
+
+	@Override
+	public void readSet(Scanner inFile) 
+	{
+		while(inFile.hasNext())
+		{
+			addElement(inFile.nextLine());
+		}
+	}
+
+	@Override
+	public OneSet intersectWith(OneSet that) {
+		OneSet intersect =new OneSet();
+		for (int i = 0; i < this.theSet.size(); i++){
+			if(that.containsElement(this.getTheSet().get(i))){
+				FileUtils.logFile.printf("present " + this.getTheSet().get(i) + "\n");
+				intersect.addElement(this.getTheSet().get(i));
+			} else { 
+				FileUtils.logFile.printf("NOT present " +  this.getTheSet().get(i) + "\n");
+				
+			}
+		}
+		return intersect;
+	}
+
+	public String toString()
+	{
+		
+		String output = "";
+		for(String s: theSet)
+		{
+			output+= s + " ";
+		}
+		return output;
+	}
+}

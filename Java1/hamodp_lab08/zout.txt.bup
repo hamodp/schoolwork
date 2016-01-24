@@ -1,0 +1,17 @@
+The set is {red orange blue green }
+Subset {}
+Subset {red }
+Subset {red orange }
+Subset {orange }
+Subset {orange blue }
+Subset {orange blue red }
+Subset {blue red }
+Subset {blue }
+Subset {blue green }
+Subset {blue green red }
+Subset {blue green red orange }
+Subset {blue green orange }
+Subset {green orange }
+Subset {green orange red }
+Subset {green red }
+Subset {green }

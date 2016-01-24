@@ -1,0 +1,75 @@
+import java.util.*;
+
+
+public class OneSet implements IOneSet {
+
+  private Scanner inFile;
+  private ArrayList<String> theSet;
+  private HashSet<String> hashtable;
+  
+  public OneSet(String fileName)
+  {
+	  theSet = new ArrayList<String>();
+	  hashtable = new HashSet<String>();
+	  inFile = FileUtils.ScannerOpen(fileName);
+	  this.readSet(inFile);
+  }
+  
+  
+	public ArrayList<String> getTheSet() {
+		
+		return theSet;
+	}
+
+	@Override
+	public void addElement(String element)
+	{
+		if(! containsElement(element))
+		{
+			theSet.add(element);
+			hashtable.add(element);
+		}
+		
+	}
+
+	@Override
+	public boolean containsElement(String element) {
+		for(String s: hashtable)
+		{
+			if(s.equals(element))
+			{
+				return false;
+			}
+		}
+		return true;
+	}
+
+	@Override
+	public void readSet(Scanner inFile) 
+	{
+		while(inFile.hasNext())
+		{
+			addElement(inFile.nextLine());
+		}
+	}
+
+	@Override
+	public OneSet intersectWith(OneSet that) {
+		for(String s: that.getTheSet())
+		{
+			addElement(s);
+		}
+		return this;
+	}
+
+	public String toString()
+	{
+		
+		String output = "";
+		for(String s: theSet)
+		{
+			output+= s + "\n";
+		}
+		return output;
+	}
+}

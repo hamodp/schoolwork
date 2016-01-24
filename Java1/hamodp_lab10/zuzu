@@ -1,0 +1,5 @@
+cat zzsmallA* | sort | uniq -c | sort >zzsmallAtruth.txt
+cat zzsmallB* | sort | uniq -c | sort >zzsmallBtruth.txt
+cat zzlargeA* | sort | uniq -c | sort >zzlargeAtruth.txt
+cat zzlargeB* | sort | uniq -c | sort >zzlargeBtruth.txt
+

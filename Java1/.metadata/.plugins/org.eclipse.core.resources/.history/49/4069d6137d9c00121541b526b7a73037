@@ -1,0 +1,457 @@
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.NoSuchElementException;
+/*********************************************************************
+ * MySet class for Lab 08 that implements a mathematical set, complete
+ * with an iterator for the elements in the set and an iterator for
+ * all the subsets of the set.
+ *
+ * Copyright (C) 2012 by Duncan A. Buell.  All rights reserved.
+ *
+ * @author Duncan A. Buell
+ * @version 1.00 2012-12-27
+**/
+public class MySet<T extends Comparable<T>> implements IMySet<T>
+{
+  private ArrayList<T> theList;
+
+/*********************************************************************
+ * Constructor.
+**/
+  public MySet()
+  {
+    this.theList = new ArrayList<T>();
+  } // public MySet()
+
+/*********************************************************************
+ * Accessors and mutators.
+**/
+
+/*********************************************************************
+ * General methods.
+**/
+
+/*********************************************************************
+ * Method 'addToSet' to add an element to this set.
+ *
+ * @param e the 'T' to add
+ * @return the 'T' if successfully added, else null if already present
+**/
+  public T addToSet(T e)
+  {
+    T returnValue = null;
+
+    if(!this.containsElement(e))
+    {
+      this.theList.add(e);
+      returnValue = e;
+    }
+
+    return returnValue;
+  } // public T addToSet(T e)
+
+/*********************************************************************
+ * Method 'card' to return the cardinality of a set.
+ *
+ * @return the cardinality of the list
+**/
+  public int card()
+  {
+    return this.theList.size();
+  } // public int card()
+
+/*********************************************************************
+ * Method 'containsElement' to test if an element is in this set.
+ *
+ * @param e the 'T' to test for
+ * @return the answer to the question
+**/
+  public boolean containsElement(T e)
+  {
+    Iterator<T> iter = this.iterator();
+    while(iter.hasNext())
+    {
+      if(iter.next().equals(e))
+        return true;
+    }
+
+    return false;
+  } // public boolean containsElement(T e)
+
+/*********************************************************************
+ * Method 'containsSet' to test if this set contains another set.
+ *
+ * @param e the 'T' to test for
+ * @return the answer to the question
+**/
+  public boolean containsSet(MySet<T> thatSet)
+  {
+    return thatSet.isContainedIn(this);
+/*
+    Iterator<T> iter = thatSet.iterator();
+    while(iter.hasNext())
+    {
+      if(!this.containsElement(iter.next()))
+        return false;
+    }
+
+    return true;
+*/
+  } // public boolean containsSet(MySet<T> thatSet)
+  
+/*********************************************************************
+ * Method 'equals' to test if two sets are equal.
+ *
+ * @param that the set to test for equality
+ * @return the answer to the question
+**/
+  public boolean equals(MySet<T> that)
+  {
+    if(!this.isContainedIn(that))
+      return false;
+    if(!that.isContainedIn(this))
+      return false;
+
+    return true;
+  } // public boolean equals(MySet that)
+
+/*********************************************************************
+ * Method 'getByID' to get an element to this set based on the ID of
+ * the element.
+ *
+ * This is a bit of a hack to the concept of a set, but computers
+ * need to know how to refer to things, and thus we need an 'ID'.
+ * In point of fact, we use the subscript as the ID, but no one
+ * outside this class needs to know that.
+ *
+ * @param id the ID of the element to get
+ * @return the 'T' if successfully found, else null
+ */
+  public T getByID(int id)
+  {
+	  return theList.get(id);
+  } // public T getByID(int id)
+
+
+/*********************************************************************
+ * Method 'isContainedIn' to return whether this set is contained in another.
+ *
+ * @return the answer to the question
+**/
+  public boolean isContainedIn(MySet<T> thatSet)
+  {
+    Iterator<T> iter = this.iterator();
+    while(iter.hasNext())
+    {
+      if(!thatSet.containsElement(iter.next()))
+        return false;
+    }
+
+    return true;
+  } // public boolean isContainedIn(MySet<T> thatSet)
+
+/*********************************************************************
+ * Method 'isEmpty' to return the boolean about emptiness of the set.
+ *
+ * @return the answer to the question
+**/
+  public boolean isEmpty()
+  {
+    return (0 == this.card());
+  } // public boolean isEmpty()
+
+/*********************************************************************
+ * Method 'removeFromSet' to remove en element from this set if present.
+ *
+ * @param e the 'T' to remove
+ * @return the 'T' if successfully removed, else null if not present
+**/
+  public T removeFromSet(T e)
+  {
+    T returnValue = null;
+
+    if(this.containsElement(e))
+    {
+      this.theList.remove(this.subscriptOf(e));
+      returnValue = e;
+    }
+    return returnValue;
+  } // public T removeFromSet(T e)
+
+/*********************************************************************
+ * Method 'subscriptOf' to return the subscript of an element in the set.
+ *
+ * @param e the 'T' to test
+ * @return the subscript, or -1 if the element is in fact not present.
+**/
+  private int subscriptOf(T e)
+  {
+    int returnValue = -1;
+
+    for(int i = 0; i < this.card(); ++i)
+    {
+      if(this.theList.get(i).equals(e))
+        returnValue = i;
+    }
+    return returnValue;
+  } // private int subscriptOf(T e)
+
+/*********************************************************************
+ * Usual 'toString' method.
+ *
+ * @return a formatted 'toString' of the class
+**/
+  public String toString()
+  {
+    String s = "";
+
+    s += "{";
+    Iterator<T> iter = this.iterator();
+    while(iter.hasNext())
+    {
+      s += String.format("%s ", iter.next());
+    }
+    s += "}";
+
+    return s;
+  } // public String toString()
+
+/*********************************************************************
+ * Iterator code goes here at the end. This involves an embedded class.
+**/
+/*********************************************************************
+ * Method to set up the 'Iterator'.
+ *
+ * @return the 'iterator'
+**/
+  public Iterator<T> iterator()
+  {
+    Iterator<T> iter = new SetIterator();
+
+    return iter;
+  } // public Iterator<T> iterator()
+
+/*********************************************************************
+ * Embedded <code>Iterator</code> class.
+**/
+private class SetIterator implements Iterator<T>
+{
+  private int index;
+/*********************************************************************
+ * Constructor.
+**/
+  public SetIterator()
+  {
+    this.index = 0;
+  } // public SetIterator()
+
+/*********************************************************************
+ * General methods.
+**/
+/*********************************************************************
+ * Method to answer the question of a "next" element.
+ *
+ * @return the <code>boolean</code> answer to the question.
+**/
+  public boolean hasNext()
+  {
+    return (this.index < card());
+  } // public boolean hasNext()
+
+/*********************************************************************
+ * Method to return the 'next' element.
+ *
+ * @return the next data element.
+**/
+@Override
+  public T next()
+  {
+    T returnValue = null;
+
+    if(this.hasNext())
+    {
+      returnValue = theList.get(this.index);
+      ++(this.index);
+    }
+    else
+    {
+      throw new NoSuchElementException("ERROR: next fails");
+    }
+
+    return returnValue;
+  } //public T next()
+
+/*********************************************************************
+ * Method to remove the element returned by the most recent 'next'
+ * operation.  This is optional and has not been implemented. 
+ *
+ * @throws UnsupportedOperationException at present.
+**/
+  public void remove()
+  {
+    throw new UnsupportedOperationException("'remove' not supported");
+  }
+
+} // public class SetIterator
+/**
+ * END OF THE embedded <code>Iterator</code> class.
+*********************************************************************/
+
+/*********************************************************************
+ * Subset iterator code goes here at the end.
+ * This involves an embedded class.
+**/
+/*********************************************************************
+ * Method to set up the 'Iterator'.
+ *
+ * @return the 'subsetIterator'
+**/
+  public Iterator<MySet<T>> subsetIterator()
+  {
+    Iterator<MySet<T>> iter = new SubsetIterator();
+
+    return iter;
+  } // public Iterator<T> subsetIterator()
+
+/*********************************************************************
+ * Embedded <code>SubsetIterator</code> class.
+ *
+ * Note: we are going to do the unsafe thing of having a parallel
+ * index variable and a bits 'ArrayList'. This will make it not
+ * necessary to create the bits array for every 'next'. But it is
+ * not really a safe thing to do.
+**/
+private class SubsetIterator implements Iterator<MySet<T>>
+{
+// I am giving you these variables as freebies
+  private int setCard;
+  private int subsetIndex;
+  private int numberOfSubsets;
+  private ArrayList<Integer> bits;
+  private ArrayList<Integer> grayCode;
+  private MySet<T> currentSubset;
+/*********************************************************************
+ * Constructor.
+**/
+  public SubsetIterator()
+  {
+    this.setCard = card(); // set one variable here
+    this.subsetIndex = 0;
+    this.numberOfSubsets = (int) Math.pow(2.0, (double) setCard);
+    this.currentSubset = new MySet<T>();
+
+    // this is the 'ArrayList' for the bit configuration of the counter
+    this.bits = new ArrayList<Integer>();
+    for(int i = 0; i < setCard; ++i) bits.add(0);
+
+    // this is the 'ArrayList' for the bit configuration of the Gray code
+    this.grayCode = new ArrayList<Integer>();
+    for(int i = 0; i < setCard; ++i) grayCode.add(0);
+  } // public SubsetIterator()
+
+/*********************************************************************
+ * General methods.
+**/
+/*********************************************************************
+ * Method to get the current subset for the current index.
+ *
+ * @return the current subset
+**/
+  public MySet<T> getSubset()
+  {
+    // I recommend that you convert the bit configuration of the counter
+    // to a local Gray code 'ArrayList' and then copy the local code
+    // to your running Gray code so you will have the "old" version.
+    // Comparing the old against the new will let you know what to 
+    // add or what to remove.
+    ArrayList<Integer> localCode = new ArrayList<Integer>();
+
+    //We first copy the array of bits to the 'grayCode' variable
+    for(int i = 0; i < setCard -1; ++i)
+      localCode.add((bits.get(i)+bits.get(i+1))%2);
+
+    localCode.add(bits.get(bits.size()-1));
+  
+    
+    
+    // We copy the local to the running list so as to have the "old" list
+    // for next time around.
+    for(int i = 0; i < setCard; ++i)
+      grayCode.set(i, localCode.get(i));
+    
+    return currentSubset;
+  } // public MySet<T> getSubset()
+
+/*********************************************************************
+ * Method to answer the question of a "next" element.
+ *
+ * @return the <code>boolean</code> answer to the question.
+**/
+  public boolean hasNext()
+  {
+	  return (this.subsetIndex < this.numberOfSubsets);
+  } // public boolean hasNext()
+
+/*********************************************************************
+ * Method to increment the bit array.
+**/
+  public void incrementBitArray()
+  {
+    int carry;
+    int digit;
+    int sum;
+
+    carry = 1;
+    digit = 0;
+    while(1 == carry)
+    {
+      sum = carry + bits.get(digit);
+      bits.set(digit, sum);
+      carry = 0;
+      if(2 == sum)
+      {
+        carry = 1;
+        sum = 0;
+        bits.set(digit, sum);
+        ++digit;
+        if(digit >= setCard)
+        {
+          for(int i = 0; i < setCard; ++i) bits.set(i, 0);
+          break;
+        }
+      }
+    }
+  } // public void incrementBitArray()
+
+/*********************************************************************
+ * Method to return the 'next' element.
+ *
+ * @return the next data element.
+**/
+// @Override
+  public MySet<T> next()
+  {
+    MySet<T> returnValue = null;
+    returnValue = getSubset();
+    incrementBitArray();
+    return returnValue;
+  } //public MySet<T> next()
+
+/*********************************************************************
+ * Method to remove the element returned by the most recent 'next'
+ * operation.  This is optional and has not been implemented. 
+ *
+ * @throws UnsupportedOperationException at present.
+**/
+  public void remove()
+  {
+    throw new UnsupportedOperationException("'remove' not supported");
+  }
+
+} // public class SetIterator
+/**
+ * END OF THE embedded <code>SubsetIterator</code> class.
+*********************************************************************/
+
+
+} // public class MySet

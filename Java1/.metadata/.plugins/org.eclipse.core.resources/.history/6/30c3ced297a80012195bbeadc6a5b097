@@ -1,0 +1,75 @@
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.TreeMap;
+import java.util.Map.Entry;
+
+
+public class Choices
+{
+	private static TreeMap<Choice, Integer> mapIDToChoice;
+	private static TreeMap<Integer, Choice> mapChoiceToID;
+	private static TreeMap<String, Choice> contestToChoice;
+	static private int id = 0;
+	
+public Choices()
+{
+	mapIDToChoice = new TreeMap<Choice, Integer>();
+	mapChoiceToID = new TreeMap<Integer, Choice>();
+	contestToChoice = new TreeMap<String, Choice>();
+	
+}
+	
+  
+  static public void AddChoice(Choice choice)
+  {
+	  id++;
+	  mapIDToChoice.put(choice, id);
+	  mapChoiceToID.put(id, choice);
+	  contestToChoice.put(choice.getContest(), choice);
+	  
+  }
+
+  static public Choice GetChoice(Integer id)
+  {
+	  return mapChoiceToID.get(id);
+  }
+
+  static public Integer GetID(Choice choice)
+  {
+	return mapIDToChoice.get(choice);  
+  }
+
+  public String toString()
+  {
+	  String output = "";
+	  return output;
+  }
+
+  static public Choice GetChoice(String contest)
+  {
+	  return contestToChoice.get(contest);
+  }
+  
+	public int compare(Choice o1, Choice o2)
+	{
+		int returnValue;
+	
+	    returnValue = 0;
+	
+	    // this sort works on the name
+	    if(o1.getContest().compareTo(o2.getContest()) < 0)
+	    {
+	      returnValue = -1;
+	    }
+	    else if(o1.getContest().compareTo(o2.getContest()) > 0)
+	    {
+	      returnValue = +1;
+	    }
+	    else
+	    {
+	      returnValue = 0;
+	    }
+	
+	    return returnValue;
+	 }
+}

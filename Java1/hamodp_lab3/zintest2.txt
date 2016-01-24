@@ -1,0 +1,129 @@
+<text>
+  <body>
+    <div>
+      <listPerson>
+        <person>
+          <persName>
+            <surName               repeat="never"               color="blue">
+NEMIAH
+            </surName>
+            <foreName>
+Royal
+            </foreName>
+            <addName>
+Case.
+            </addName>
+          </persName>
+          <born>
+21 May 1891, Hartford, CT
+          </born>
+          <married>
+Ruth Louise Comes, 5 Apr. 1917
+          </married>
+          <education               repeat="always">
+A.B. Yale, 1912; Ph.D. 1916; study at Göttingen, 1912–4.
+          </education>
+          <profexp>
+Instr. Gk. and Lat. Yale, 1915–8
+          </profexp>
+          <died>
+21 Dec. 1978, Hanover, NH.
+          </died>
+          <note>
+            <p>
+Royal C. Nemiah developed a love of Germany during study at Gottingen, cut off by impending war.
+            </p>
+          </note>
+          <dissertation italics="yes"              >
+"The Life and Works of Publius Rutilius Rufus" (Yale, 1916).
+          </dissertation>
+          <publications>
+Selections from the Ancient Greek Historians in English 
+(New York, 1939).
+          </publications>
+          <sources>
+
+Dartmouth Alumni Magazine 
+(June 1959); 
+DAS 
+1972:335; 
+Valley News 
+(21 Dec. 1978); 
+WhWh 
+1952–3:1790.
+          </sources>
+          <author>
+Ward W. Briggs, Jr.
+          </author>
+        </person>
+        <person>
+          <persName>
+            <surName>
+NORWOOD
+            </surName>
+            <foreName>
+Gilbert.
+            </foreName>
+            <addName>
+
+            </addName>
+          </persName>
+          <born>
+23 Nov. 1880, Ecclesall Bierlow, Sheffield, England, to Leonard, a draper’s traveler, and Helen Mary Dutton N.
+          </born>
+          <married>
+Elizabeth Hepburn; Frances Ould.
+          </married>
+          <education>
+B.A. Cambridge (St. John’s Coll.), 1903; M.A. 1906; fell., 1906–9; D.Litt. U. Wales, 1933.
+          </education>
+          <profexp>
+Asst. lctr. class. U. Manchester, 1903–8; prof. Gk. Univ. Coll., Cardiff, Wales, 1908–26; prof. Lat. Univ. Coll., U. Toronto, 1926–8; prof, class. and dir. class, stud., 1928–51; fell. RSC, 1943; Sather prof., 1943–4; vis. prof. U. Chicago, 1944–5.
+          </profexp>
+          <died>
+18 Oct. 1954, Toronto.
+          </died>
+          <note>
+            <p>
+Norwood’s Cantabrigian background (imparted by Sir John Sandys and Sir Richard Jebb and, indirectly, by A. W. Verrall) and his rich humanity infused new life into Toronto’s somewhat creaky "Oxonian" system.
+            </p>
+          </note>
+          <dissertation italics="no">
+          </dissertation>
+          <publications>
+Vergil,
+Georgics I, IV, 
+with F. G. Plaistowe (London, n.d.); Euripides, 
+Andromache 
+(London, 1906); 
+The Riddle of the Bacchae, 
+U. Manchester Publ. Class. Ser. 1 (Manchester and London, 1908); Plautus, 
+Mostellaria 
+(trans.) (Manchester, 1908); Euripides, 
+Iphigenia at Aulis 
+(Manchester, 1909); Aristophanes, 
+Acharnians 
+(Oxford, 1911). 
+          </publications>
+          <sources>
+
+Alumni Cantabrigienses, 
+ed. J.A. Venn (Cambridge, Eng., 1951) 4:569; 
+CanWW 
+1952–4:807; 
+MacDCB 
+78:621; A. S. P. Woodhouse in 
+University College: A Portrait 1853–1953, 
+ed. C. T. Bissell (Toronto, 1953) 65–7; idem, 
+PRSC 
+ser. 3, 49 (1955) 117–21.
+          </sources>
+          <author>
+Alexander G. McKay
+          </author>
+        </person>
+      </listPerson>
+    </div>
+  </body>
+</text>
+

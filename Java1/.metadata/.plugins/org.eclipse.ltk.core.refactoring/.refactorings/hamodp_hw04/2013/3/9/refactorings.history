@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;hamodp_hw04/zdtd1.txt&apos; to &apos;zdtd.txt&apos;" description="Rename resource &apos;zdtd1.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="zdtd1.txt" name="zdtd.txt" stamp="1362157217052" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;hamodp_hw04/zintest1.txt&apos; to &apos;zintest.txt&apos;" description="Rename resource &apos;zintest1.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="zintest1.txt" name="zintest.txt" stamp="1362157853833" updateReferences="true"/>
+</session>

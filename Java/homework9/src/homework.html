@@ -1,0 +1,73 @@
+<html>
+<head>
+ <title>Hamod Website</title>
+
+<script type= "text/javascript">
+
+
+</script>
+
+</head>
+
+<body>
+
+<table class="tablesorter" cellspacing="2">             
+    <thead>
+        <tr> 
+            <th> name</th> 
+            <th></th> 
+            <th>age</th> 
+           
+        </tr> 
+    </thead> 
+    <tbody> 
+
+        <tr>
+           <td><id= st> peter parker</st></td> 
+            <td> 28</td> 
+           
+        </tr> 
+        <tr> 
+            <td>john hood</td> 
+            <td> 33</td> 
+       
+        </tr> 
+        <tr> 
+            <td>kent clark</td> 
+            <td> 18</td> 
+           
+        </tr> 
+        <tr> 
+            <td>bruce almighty</td> 
+            <td> 45</td> 
+           
+        </tr> 
+        <tr>  
+            <td>bruce evans</td> 
+            <td> 22</td> 
+           
+        </tr> 
+    </tbody> 
+</table>
+
+<script type= "text/javascript">
+
+names=["peter parker", "john hood", "kent clark", "bruce almighty", "bruce evans"];
+
+
+names.sort();
+
+function compare(a, b) {	return a - b;}
+	var a = [28,33,18,45,22];a.sort(function(a,b) { 
+	return a-b; 
+});
+
+
+
+</script>
+
+
+<input type="button" onclick= alert(names) value= "sort name" />
+<input type="button" onclick= alert(a) value= "sort age" />
+</body>
+</html>

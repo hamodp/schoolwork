@@ -1,0 +1,1129 @@
+Beginning of data of 84 lines of CVR
+    1   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+
+
+    2   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+    3   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               Nammu Y Muhammad                        CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+    4   101 Ward 1               5125111   3 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+    5   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+    6   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+    7   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+    8   101 Ward 1               5125111   3 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+
+
+    9   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+
+
+   10   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   11   101 Ward 1               5125111   3 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   12   101 Ward 1               5125111   2 * Jill Stein                              President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Scott West                              SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+
+
+   13   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   14   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               No                                      Local Question 2
+
+
+   15   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   16   101 Ward 1               5125111   2 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   17   101 Ward 1               5125111   3 * Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   18   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               W/I MICKEY-MOUSE                        CONG006 U.S. House of Representatives
+                                               Scott West                              SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   19   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   20   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   21   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               W/I SANDRA BROWN                        Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   22   101 Ward 1               5125111   2 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+
+
+   23   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   24   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   25   101 Ward 1               5125111   2 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   26   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   27   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   28   101 Ward 1               5125111   4 * Barack Obama                            President of Vice President
+                                               Joe Wilson                              CONG002 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   29   101 Ward 1               5125111   3 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   30   101 Ward 1               5125111   4 * Barack Obama                            President of Vice President
+                                               Joe Wilson                              CONG002 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   31   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               Leon Lott                               Sheriff
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+
+
+   32   101 Ward 1               5125111   3 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   33   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   34   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   35   101 Ward 1               5125111   2 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   36   101 Ward 1               5125111   3 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   37   101 Ward 1               5125111   3 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   38   101 Ward 1               5125111   3 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   39   101 Ward 1               5125111   2 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   40   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   41   101 Ward 1               5125111   3 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   42   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   43   101 Ward 1               5125111   4 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               Joe Wilson                              CONG002 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   44   101 Ward 1               5125111   3 * Gary Johnson                            President of Vice President
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+
+
+   45   101 Ward 1               5125111   2 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               W/I FRANCIS KEHOE                       Sheriff
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   46   101 Ward 1               5125111   2 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   47   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               No                                      Local Question 2
+
+
+   48   101 Ward 1               5125111   2 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+
+
+   49   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               Nammu Y Muhammad                        CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   50   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   51   101 Ward 1               5125111   2 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   52   101 Ward 1               5125111   2 * Gary Johnson                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Scott West                              SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   53   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   54   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   55   101 Ward 1               5125111   3 * Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   56   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   57   101 Ward 1               5125111   2 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               Leon Lott                               Sheriff
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   58   101 Ward 1               5125111   2 * Gary Johnson                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   59   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               Robert Rikard                           SEND020 State Senate
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   60   101 Ward 1               5125111   4 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   61   101 Ward 1               5125111   2 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   62   101 Ward 1               5125111   4 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               Joe Wilson                              CONG002 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               No                                      Local Question 2
+
+
+   63   101 Ward 1               5125111   2 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               Nammu Y Muhammad                        CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   64   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   65   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   66   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   67   101 Ward 1               5125111   3 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   68   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   69   101 Ward 1               5125111   4 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+
+
+   70   101 Ward 1               5125111   4 * Mitt Romney                             President of Vice President
+                                               Joe Wilson                              CONG002 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+
+
+   71   101 Ward 1               5125111   3 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               No                                      Local Question 2
+
+
+   72   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Moryah Jackson                          SCH1ALG School Board District 1 At Large
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   73   101 Ward 1               5125111   3 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               No                                      Local Question 2
+
+
+   74   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   75   101 Ward 1               5125111   2 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               W/I JAMIE BEIDAS                        HOU074 State House of Representatives
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   76   101 Ward 1               5125111   3 * Mitt Romney                             President of Vice President
+                                               W/I MICKEY MOUSE                        CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               W/I DONALD DUCK                         HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               W/I GOOFY                               SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   77   101 Ward 1               5125111   2 * Mitt Romney                             President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   78   101 Ward 1               5125111   2 * Republican                              STRAIGHT PARTY
+                                               Mitt Romney                             President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   79   101 Ward 1               5125111   3 * Democratic                              STRAIGHT PARTY
+                                               Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   80   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   81   101 Ward 1               5125111   2 * Gary Johnson                            President of Vice President
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   82   101 Ward 1               5125111   4 * Barack Obama                            President of Vice President
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               Yes                                     Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               No                                      Local Question 2
+
+
+   83   101 Ward 1               5125111   3 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               Robert Rikard                           SEND020 State Senate
+                                               James Smith                             HOU072 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Antjuan Seawright                       SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               No                                      Local Question 1
+                                               Yes                                     Local Question 2
+
+
+   84   101 Ward 1               5125111   2 * Barack Obama                            President of Vice President
+                                               James E Jim Clyburn                     CONG006 U.S. House of Representatives
+                                               John Courson                            SEND020 State Senate
+                                               J Todd Rutherford                       HOU074 State House of Representatives
+                                               Leon Lott                               Sheriff
+                                               Gary Watts                              Coroner
+                                               Jeanette W McBride                      Clerk of Court
+                                               John V Green                            Soil and Water District Commission
+                                               Vince Ford                              SCH1ALG School Board District 1 At Large
+                                               Barbara A Scott                         SCH1ALG School Board District 1 At Large
+                                               Beatrice King                           SCHO013 School Board District 1 Seat 3
+                                               No                                      Statewide Amendment No 1
+                                               Yes                                     Local Question 1
+                                               Yes                                     Local Question 2
+
+
+End of data of 84 lines of CVR
+
+Votes for President
+   36 Mitt Romney                    President of Vice President
+   42 Barack Obama                   President of Vice President
+    1 Jill Stein                     President of Vice President
+    4 Gary Johnson                   President of Vice President
+    1 Undervote                      President of Vice President
+
+
+Votes for Congress, District 2
+    5 Joe Wilson                     CONG002 U.S. House of Representatives
+   79 Undervote                      CONG002 U.S. House of Representatives
+
+
+Votes for Congress, District 6
+   52 James E Jim Clyburn            CONG006 U.S. House of Representatives
+    3 Nammu Y Muhammad               CONG006 U.S. House of Representatives
+    1 W/I MICKEY-MOUSE               CONG006 U.S. House of Representatives
+    1 W/I MICKEY MOUSE               CONG006 U.S. House of Representatives
+   27 Undervote                      CONG006 U.S. House of Representatives
+
+
+Most common pairs and triples of votes
+  61 Leon Lott                               Sheriff
+     Gary Watts                              Coroner
+
+  59 Leon Lott                               Sheriff
+     Gary Watts                              Coroner
+     Jeanette W McBride                      Clerk of Court

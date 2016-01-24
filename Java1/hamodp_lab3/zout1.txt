@@ -1,0 +1,27 @@
+ open: text
+ open: body
+ open: div
+ open: thistag x="y" z="w"
+ data: Data for 'thistag'
+close: thistag
+ open: thattag x="A" z="B"
+ data: Data for 'thattag'
+close: thattag
+ open: anothertag
+ data: Data for 'anothertag'
+close: anothertag
+close: div
+ open: div
+ open: bigtag student="yes"
+ data: Data for 'bigtag'
+close: bigtag
+ open: littletag
+ data: Data for 'littletag'
+close: littletag
+ open: anothertag teacher="no"
+ data: Data for 'anothertag'
+close: anothertag
+close: div
+close: body
+close: text
+

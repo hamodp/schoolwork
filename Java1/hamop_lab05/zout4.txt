@@ -1,0 +1,16 @@
+Counter, GrayCode  0 0 0 0 :  0 0 0 0
+Counter, GrayCode  0 0 0 1 :  0 0 0 1
+Counter, GrayCode  0 0 1 0 :  0 0 1 1
+Counter, GrayCode  0 0 1 1 :  0 0 1 0
+Counter, GrayCode  0 1 0 0 :  0 1 1 0
+Counter, GrayCode  0 1 0 1 :  0 1 1 1
+Counter, GrayCode  0 1 1 0 :  0 1 0 1
+Counter, GrayCode  0 1 1 1 :  0 1 0 0
+Counter, GrayCode  1 0 0 0 :  1 1 0 0
+Counter, GrayCode  1 0 0 1 :  1 1 0 1
+Counter, GrayCode  1 0 1 0 :  1 1 1 1
+Counter, GrayCode  1 0 1 1 :  1 1 1 0
+Counter, GrayCode  1 1 0 0 :  1 0 1 0
+Counter, GrayCode  1 1 0 1 :  1 0 1 1
+Counter, GrayCode  1 1 1 0 :  1 0 0 1
+Counter, GrayCode  1 1 1 1 :  1 0 0 0

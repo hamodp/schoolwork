@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;hamodp_lab09/zout.txt&apos; to &apos;zout1.txt&apos;" description="Rename resource &apos;zout.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="zout.txt" name="zout1.txt" stamp="1365560465596" updateReferences="true"/>
+</session>

@@ -1,0 +1,35 @@
+
+Test of 'MySet' using 'Element1'
+Element1 Set 1: red orange blue green 
+Element1 Set 2; orange brown blue brown 
+Element1 Sets 1 and 2 are not equal
+Element1 Set 3: blue orange brown 
+Element1 Sets 2 and 3 are not equal
+Element1 Set 3: blue orange brown 
+Element1 'red' not in set 3
+Element1 Set 3: blue orange brown 
+Element1 Set 3: blue orange brown 
+Element1 'brown' removed from set 3
+Element1 Set 3: blue orange 
+Element1 Set 3; blue orange 
+Element1 Set 3: blue orange red green 
+Element1 Set 1: red orange blue green 
+Element1 Set 3: blue orange red green 
+Element1 Sets 1 and 3 are equal
+
+Test of 'MySet' using 'Element2'
+Element2 Set 1; 101 202 303 404 
+Element2 Set 2: 101 303 505 707 
+Element2 Sets 1 and 2 are not equal
+Element2 Set 3: 505 303 101 
+Element2 Sets 2 and 3 are not equal
+Element2 Set 3: 505 303 101 
+Element2 Element '404' not in integer set 3
+Element2 Set 3: 505 303 101 
+Element2 Set 2: 101 303 505 707 
+Element2 Element '707' removed from set 2
+Element2 Set 2: 101 303 505 
+Element2 Set 2: 101 303 505 
+Element2 Set 3: 505 303 101 
+Element2 Sets 2 and 3 are equal
+Does 2 contain 3? true

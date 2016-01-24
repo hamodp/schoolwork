@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;IChoice.java&apos;&#x0D;&#x0A;- Original project: &apos;homework2&apos;&#x0D;&#x0A;- Destination element: &apos;IChoice.java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     VoteCounts.java&#x0D;&#x0A;     CastVote.java&#x0D;&#x0A;     Choice.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=hamodp_hw07/src&lt;{IChoice.java" element1="/src&lt;{VoteCounts.java" element2="/src&lt;{CastVote.java" element3="/src&lt;{Choice.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1366329469279" units="3" version="1.0"/>
+</session>

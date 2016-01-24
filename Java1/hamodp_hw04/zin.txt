@@ -1,0 +1,27 @@
+<text>
+  <body>
+    <person>
+      <thistag>
+Data for 'thistag'
+      </thistag>
+      <thattag>
+Data for 'thattag'
+      </thattag>
+      <anothertag>
+Data for 'anothertag'
+      </anothertag>
+    </person>
+    <person>
+      <bigtag>
+Data for 'bigtag'
+      </bigtag>
+      <littletag>
+Data for 'littletag'
+      </littletag>
+      <anothertag>
+Data for 'anothertag'
+      </anothertag>
+    </person>
+  </body>
+</text>
+

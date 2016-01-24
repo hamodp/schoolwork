@@ -1,0 +1,76 @@
+import java.util.Scanner;
+
+public class Choice implements IChoice
+{
+	
+	static private int staticVoteNumber = 0;
+
+	private int localVoteNumber = 0;
+
+	boolean isNewVote;
+
+	private String ballotStyle;
+	private String candidateContest;
+	private String ivo;
+	private String pctName;
+    private String pctNumber;
+	private String sequenceCode;
+	private Scanner scan;
+
+	
+	public Choice(String pctData, String inputLine) 
+	{
+		parseInput(pctData, inputLine);
+	}
+
+	public void extractPctData(String pctData) 
+	{
+	
+
+
+		this.pctNumber = pctData.substring(0, 2);
+		this.pctName = pctData.substring(4);
+		this.pctName = pctName.trim();
+	}
+
+	@Override
+	public void parseInput(String pctData, String inputLine) 
+	{
+		extractPctData(pctData);
+		scan =new Scanner(inputLine);
+		if(inputLine.contains("*"))
+		{
+			isNewVote = true;
+			staticVoteNumber++;
+			this.localVoteNumber = staticVoteNumber;
+			this.ivo = scan.next();
+			this.ballotStyle =scan.next();
+			this.sequenceCode = scan.next();
+			scan.next();
+			this.candidateContest =scan.next();
+		}
+		
+		else{
+			isNewVote =false;
+			this.ivo = scan.next();
+			this.ballotStyle =scan.next();
+			this.sequenceCode = scan.next();
+			this.candidateContest =scan.next();
+		}
+		
+	}
+	
+	public String toString()
+	{
+		if(isNewVote)
+		{
+			return(localVoteNumber+"/t"+ pctNumber+" "+pctName+"/t"+ ivo+ " N   "+ballotStyle
+					+ "/t" + sequenceCode);
+		}
+		else
+		{
+			return ("not new vote");
+		}
+	}
+
+}

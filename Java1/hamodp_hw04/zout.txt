@@ -1,0 +1,36 @@
+DTD is
+anothertag
+bigtag
+body
+littletag
+person
+thattag
+thistag
+text
+
+open: '<text>'  'text'
+open: '<body>'  'body'
+open: '<person>'  'person'
+open: '<thistag>'  'thistag'
+data: 'Data for 'thistag''
+close: '</thistag>'  'thistag'
+open: '<thattag>'  'thattag'
+data: 'Data for 'thattag''
+close: '</thattag>'  'thattag'
+open: '<anothertag>'  'anothertag'
+data: 'Data for 'anothertag''
+close: '</anothertag>'  'anothertag'
+close: '</person>'  'person'
+open: '<person>'  'person'
+open: '<bigtag>'  'bigtag'
+data: 'Data for 'bigtag''
+close: '</bigtag>'  'bigtag'
+open: '<littletag>'  'littletag'
+data: 'Data for 'littletag''
+close: '</littletag>'  'littletag'
+open: '<anothertag>'  'anothertag'
+data: 'Data for 'anothertag''
+close: '</anothertag>'  'anothertag'
+close: '</person>'  'person'
+close: '</body>'  'body'
+close: '</text>'  'text'
